@@ -199,8 +199,14 @@ section .subtitle h2 {
 }
 
 .person h3 {
-  padding: 0 0 2rem;
+  padding: 0 0 1rem;
   font-size: 3rem;
+  font-weight: 100;
+  color: rgb(80, 80, 80);
+}
+
+.person h4 {
+  padding: 0 0 1rem;
   font-weight: 100;
   color: rgb(80, 80, 80);
 }
