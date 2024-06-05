@@ -1,5 +1,9 @@
-Website design project
+# Website design project
 
-Mock brand landing page
+A design for a buisness landing page written from scratch in html and css
 
-Writen and designed from scratch by myself using html and css
+##### Features: 
+- sleek design
+- smooth automatic scrolling
+- interactive hovers
+- nice box shadows
